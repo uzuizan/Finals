@@ -1,0 +1,3 @@
+
+# Keep database credentials private
+.env
